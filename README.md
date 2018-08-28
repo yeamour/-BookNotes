@@ -1,2 +1,2 @@
-# -BookNotes
-读书笔记
+# BookNotes
+个人读书笔记
